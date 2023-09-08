@@ -1,0 +1,24 @@
+Network Tools & Technologies Lab
+
+Installed Applications:
+FortiToken -2FA for VPN
+FortiClient VPN - VPN
+GNS3 - Graphical Network Software Emulator 
+Putty - Terminal Emulator 
+
+Lab scenario:
+Your lab group works for a small MSP.
+Your instructor is your senior engineer.
+The MSP you work for has been hired to build a small business environment.
+The client has requested the following:
+  a secure network
+  an internal Windows Domain
+  an internal Microsoft IIS webserver
+  an internal Windows 10 workstation
+  a public webserver
+  a public FTP server
+  a LAN network
+  a DMZ network
+  a GUEST networK
+
+Stage 1 : Network setup
