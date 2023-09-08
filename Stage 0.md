@@ -38,4 +38,3 @@ The client has requested the following:<br>
 </ul>
  
 
-Stage 1 : Network setup
